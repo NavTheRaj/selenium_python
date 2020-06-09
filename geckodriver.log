@@ -1,0 +1,115 @@
+1591605374731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Fnsp8kd8hVhY"
+*** You are running in headless mode.
+1591605375629	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591605378304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591605378304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591605378305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591605378305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591605381233	Marionette	INFO	Listening on port 42435
+1591605381257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591605454287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rJfO8kFl4fWw"
+*** You are running in headless mode.
+1591605455546	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591605459765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591605459765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591605459766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591605459766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591605463782	Marionette	INFO	Listening on port 37725
+1591605463817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591605487929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Mlh4U3hDEo2h"
+*** You are running in headless mode.
+1591605489540	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591605493422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591605493422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591605493422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591605493423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591605498098	Marionette	INFO	Listening on port 45125
+1591605498159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591605558946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9iUzuHPQt0Mr"
+*** You are running in headless mode.
+1591605559767	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591605564529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591605564529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591605564529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591605564529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591605568423	Marionette	INFO	Listening on port 34193
+1591605568474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591605700918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Tf3KAu6puofO"
+*** You are running in headless mode.
+1591605701852	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591605704456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591605704456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591605704457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591605704457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591605708354	Marionette	INFO	Listening on port 46299
+1591605708459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591606158916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LhCrh3qGISmc"
+*** You are running in headless mode.
+1591606159927	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591606163512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591606163512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591606163512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591606163513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591606166749	Marionette	INFO	Listening on port 33529
+1591606166849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591606183955	Marionette	INFO	Stopped listening on port 33529
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591607781136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lnoqoYfZTbXg"
+*** You are running in headless mode.
+1591607788052	Marionette	INFO	Listening on port 36429
+1591607788070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591607867756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SL2DHJJSdTgf"
+*** You are running in headless mode.
+1591607875854	Marionette	INFO	Listening on port 38209
+1591607875882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591608001031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rts7wCYqZyN0"
+*** You are running in headless mode.
+1591608009023	Marionette	INFO	Listening on port 34479
+1591608009056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591608486078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UHQFnj05IgKI"
+*** You are running in headless mode.
+1591608493657	Marionette	INFO	Listening on port 40157
+1591608493741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591608530656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3wiuZmmqmcD3"
+*** You are running in headless mode.
+1591608537336	Marionette	INFO	Listening on port 36187
+1591608537383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591608644036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZIj6YjTHCECW"
+*** You are running in headless mode.
+1591608651348	Marionette	INFO	Listening on port 41769
+1591608651367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591608762951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Aau79nMOVSiq"
+*** You are running in headless mode.
+1591608775994	Marionette	INFO	Listening on port 44723
+1591608776111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591710288434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.d7FbPgfap3RK"
+*** You are running in headless mode.
+1591710298775	Marionette	INFO	Listening on port 41579
+1591710298795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591710320850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VMsjaHKkhIZ3"
+*** You are running in headless mode.
+1591710327668	Marionette	INFO	Listening on port 44043
+1591710327676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591710333630	Marionette	INFO	Stopped listening on port 44043
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1591710650329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.A7CDZYT3vLYm"
+*** You are running in headless mode.
+1591710657758	Marionette	INFO	Listening on port 46665
+1591710657854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591710772434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cekg5aSicwYz"
+*** You are running in headless mode.
+1591710779815	Marionette	INFO	Listening on port 38747
+1591710779855	Marionette	WARN	TLS certificate errors will be ignored for this session
